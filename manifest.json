@@ -1,0 +1,7 @@
+{
+  "name": "MessingWithPolymer",
+  "short_name": "MessingWithPolymer",
+  "description": "Just messing around",
+  "start_url": "/",
+  "display": "standalone"
+}
